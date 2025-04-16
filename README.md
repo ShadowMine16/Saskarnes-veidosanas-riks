@@ -1,16 +1,7 @@
-# Rīki
+Tehniskā dokumentācija
+Ievads
+Saskarnes veidošanas rīks
 
-RTK audzēkņu veidoti rīki moduļa "Tīmekļa vietņu programmēšana" ietavors.
+Šis ir rīks, ar kuru var viegli izveidot vienkāršu lietotāja saskarni (UI). Lietotājs var ar peli pievienot pogas, ievades laukus, lapas virsrakstus u.c. lietas, pārvietot tos uz lapas, kā pašam patīk, kā arī rediģēt to saturu. Gatavo dizainu var eksportēt uz HTML vai JSON formātu, lai to vēlāk varētu izmantot citos projektos. Rīks domāts, lai ātri un bez koda rakstīšanas varētu izveidot vienkāršu lapas prototipu.
 
-* Mājaslapa: https://rtk2023.github.io/riki/
-* Repozitorijs: https://github.com/rtk2023/riki
-
-## Komandas un rīki
-
-* Palaist python web serveri: `python3 -m http.server`
-
-## Izmantošana
-
-### Licence
-
-Šis projekts licencēts ar MIT licenci (skat. [`LICENSE`](LICENSE)).
+Artis Reinis Skuja, Daniels Rupenheits P2-3
